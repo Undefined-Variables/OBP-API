@@ -98,7 +98,7 @@
     <dependency>
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
-      <version>42.2.8</version>
+      <version>42.2.13</version>
     </dependency>
     <dependency>
       <groupId>com.h2database</groupId>
@@ -203,7 +203,7 @@
     <dependency>
       <groupId>org.elasticsearch</groupId>
       <artifactId>elasticsearch</artifactId>
-      <version>6.1.1</version>
+      <version>6.3.0</version>
     </dependency>
     <dependency>
       <groupId>com.sksamuel.elastic4s</groupId>
@@ -240,7 +240,7 @@
     <dependency>
       <groupId>oauth.signpost</groupId>
       <artifactId>signpost-commonshttp4</artifactId>
-      <version>1.2.1.2</version>
+      <version>2.0.0</version>
     </dependency>
     <dependency>
       <groupId>com.tesobe.obp</groupId>
@@ -375,7 +375,7 @@
     <dependency>
       <groupId>io.swagger.parser.v3</groupId>
       <artifactId>swagger-parser</artifactId>
-      <version>2.0.13</version>
+      <version>2.0.21</version>
       <exclusions>
         <exclusion>
           <artifactId>mailapi</artifactId>
@@ -416,7 +416,7 @@
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-all</artifactId>
-      <version>1.25.0</version>
+      <version>1.31.0</version>
     </dependency>
     <dependency>
       <groupId>io.netty</groupId>
@@ -426,7 +426,7 @@
     <dependency>
       <groupId>org.asynchttpclient</groupId>
       <artifactId>async-http-client</artifactId>
-      <version>2.10.4</version>
+      <version>2.11.0</version>
     </dependency>
     <!-- grpc related end-->
 
