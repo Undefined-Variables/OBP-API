@@ -416,7 +416,7 @@
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-all</artifactId>
-      <version>1.25.0</version>
+      <version>1.35.0</version>
     </dependency>
     <dependency>
       <groupId>io.netty</groupId>
